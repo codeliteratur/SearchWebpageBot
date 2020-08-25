@@ -1,19 +1,8 @@
-# Simple Chatbot in Python (using NLTK)
-
-![Alt text]()
-
-History of chatbots dates back to 1966 when a computer program called ELIZA was invented by Weizenbaum. It imitated the language of a psychotherapist from only 200 lines of code.
-
-On similar lines let's create a very basic chatbot utlising the Python's NLTK library.It's a very simple bot with hardly any cognitive skills,but still a good way to get into NLP and get to know about chatbots.
+# Chatbot that searches a webpage and replies to your answers.
 
 # Outline
-* [Motivation](#motivation)
 * [Pre-requisites](#pre-requisites)
 * [How to run](#how-to-run)
-
-
-## Motivation
-The idea of this project was just to utilise and test my Python skills as a first step in developing chatbots. This is the first time I am learning about NLP and I thought of creating a simple chatbot just to make use of my newly acquired knowledge.
 
 ## Pre-requisites
 **NLTK(Natural Language Toolkit)**
