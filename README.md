@@ -36,12 +36,10 @@ nltk.download('popular', quiet=True) # for downloading popular packages
 nltk.download('punkt') 
 nltk.download('wordnet') 
 ```
-
 ## How to run
-* Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/master)
+* Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codeliteratur/SearchWebpageBot/0c11023f1a3c0d07578e2e8e1f9e5e13048c0fac)
 
-You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
+You can run the [webpagebot.ipynb](https://github.com/codeliteratur/SearchWebpageBot/blob/master/webpagebot.ipynb) which also includes step by step instructions.
 * Through Terminal
 ```
-python chatbot.py
-```
+python searchbot.py
